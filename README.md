@@ -13,9 +13,9 @@ A Home based security system that will monitor the people going inside the house
 
 **Project Features:**
          
-         * Notifies the homeowner if anyone enters the house
-         * On and Off Door Locking
-         * Fingerprint sensor
+* Notifies the homeowner if anyone enters the house
+* On and Off Door Locking
+* Fingerprint sensor
 
 **Project IPO:**
 

@@ -3,20 +3,20 @@
 # Project Title: Indoor Home Security with Notification System
 
 **Members:**
-* John Mark A. Gomez
-* John Patrick Marnel Gasang
-* John Christopher Viray
+* John Mark A. Gomez 
+* John Christopher Viray (Rapporteur)
+* John Patrick Marnel Gasang (Leader)
+
 
 **Project Description:**
 
-A Home based security system that will monitor the people going inside the house. The Monitoring system sends notifications to the users phone if someone comes in, and also the system can be turned off if the owner does so with the use of a fingerprint sensor or a password protected button through the phone.
+This project is a home-based security system that monitors the door to your house using an Ultrasonic sensor. For further protection, the system sends notifications to the owner in the case of a break-in. The system can be turned on and off using radio-frequency identification (RFID) and a password-protected button through the mobile device.
 
 **Project Features:**
-         
-* Notifies the homeowner if anyone enters the house
-* On and Off Door Locking
-* Fingerprint sensor
 
-**Project IPO:**
+* On and Off Door Locking    
+* Radio-frequency identification (RFID)
+* App System
+* Notification System
 
-Link: (https://drive.google.com/file/d/1dMBr4baNsgYKpUOW8zgqDP_KPpQ_FvIL/view?usp=sharing)
+**References:**

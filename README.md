@@ -10,7 +10,7 @@
 
 **Project Description:**
 
-TThis project is a home-based security system that monitors your house with the use of ultrasonic sensors. For further protection, the system sends notifications from the ultrasonic sensors to the owner in the case of a break-in. The door can be unlocked and locked with the use of radio-frequency identification (RFID) and through a button with password protection on a mobile device. 
+This project is a home-based security system that monitors your house with the use of ultrasonic sensors. For further protection, the system sends notifications from the ultrasonic sensors to the owner in the case of a break-in. The door can be unlocked and locked with the use of radio-frequency identification (RFID) and through a button with password protection on a mobile device. 
 
 **Project Features:**
 
